@@ -11,6 +11,21 @@
 
 ---
 
+## Who Is In My Pod?
+
+| | Name | Role | Computer |
+|---|------|------|----------|
+| 👑  **Cris Militante** | Pod Leader | Mac |
+|     **Karen Pearl V. Pabilando** | Member | Mac |
+|     **Kael** | Member | - |
+|     **John Rowen C. Miano** | Member | Windows |
+|     **Christian Joseph M. Delos Santos** | Member | Windows |
+|     **Shannen Nazareno** | Member | Windows |
+
+**Cris Militante** is your pod leader - they keep things moving, call votes when the group is stuck, and make sure everyone has something to do. The leader can hand the role to someone else if they want to.
+
+---
+
 ## When Pjotr Says Go - Start Here
 
 [![Pod Kickoff Guide](https://img.shields.io/badge/OPEN_THIS_FIRST-Pod_Kickoff_Guide_%E2%86%92-7B2FBE?style=for-the-badge)](https://github.com/arc-web/stellarph-claude-workshop/blob/main/guides/pod-kickoff.md)
@@ -19,24 +34,9 @@ That guide walks you through picking your problem, defining it as a team, dividi
 
 ---
 
-## Your Team
-
-| Name | Role | Claude Access | Computer |
-|------|------|--------------|----------|
-| Cris Militante | **Leader** | Subscription | Mac |
-| Karen Pearl V. Pabilando |  | Subscription | Mac |
-| Kael |  | Subscription | - |
-| John Rowen C. Miano |  | Experienced | Windows |
-| Christian Joseph M. Delos Santos |  | Experienced | Windows |
-| Shannen Nazareno |  | Learning | Windows |
-
-**Pod Leader: Cris Militante** - keeps the team moving, calls votes when stuck, makes sure everyone has a role.
-
----
-
 ## What We're Building
 
-> *Fill this in together once you've picked your problem - see the kickoff guide.*
+> *Fill this in together once you've picked your problem.*
 
 **Problem we're solving:**
 
@@ -52,7 +52,7 @@ That guide walks you through picking your problem, defining it as a team, dividi
 1. Click **Add file** at the top of this page
 2. Choose **Create new file** or **Upload files**
 3. Add whatever you built
-4. Click **Commit changes**
+4. Click **Commit changes** - that saves it for everyone
 
 **Using Claude Code:**
 Just say - *"save my work and push it to the repo"*
