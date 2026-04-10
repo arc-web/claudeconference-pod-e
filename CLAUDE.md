@@ -2,15 +2,16 @@
 
 You are working with Pod E at the StellarPH x KMC Claude AI Workshop in Cebu, Philippines, April 10, 2026.
 
-## The Team (5 people)
+## The Team (6 people)
 
-| Hannah Athena Estrera | **Leader** | Subscription | Mac |
-| Rome Nicolas | | Subscription | Mac |
-| Mark Jayson Agao | | Experienced | Windows |
-| Michael Ian Rule | | Learning | Mac |
-| Earl Ceniza | | Learning | Windows |
+- Cris Militante (Leader) - Subscription, Mac
+- Karen Pearl V. Pabilando - Subscription, Mac
+- Kael - Subscription, -
+- John Rowen C. Miano - Experienced, Windows
+- Christian Joseph M. Delos Santos - Experienced, Windows
+- Shannen Nazareno - Learning, Windows
 
-Pod Leader: Hannah Athena Estrera
+Pod Leader: Cris Militante
 
 ## Your Job
 
